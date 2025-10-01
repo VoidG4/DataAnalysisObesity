@@ -83,3 +83,9 @@ Run the scripts **in order**:
 - Matplotlib
 - Seaborn
 - TensorFlow / Keras
+
+---
+
+## 📖 Documentation
+
+For detailed explanation of the project, check the full [Documentation (PDF)](./data_analysis_documentation.pdf).
